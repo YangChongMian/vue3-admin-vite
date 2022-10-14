@@ -1,5 +1,18 @@
 # Vue 3 + TypeScript + Vite
 
+技术栈：vue3 typescript vite pinia 
+
+内容：只是做了个后台管理系统的整体框架结构
+
+
+# 安装启动
+git clone
+cd 
+npm install
+npm run dev
+
+
+
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 ## Recommended IDE Setup
